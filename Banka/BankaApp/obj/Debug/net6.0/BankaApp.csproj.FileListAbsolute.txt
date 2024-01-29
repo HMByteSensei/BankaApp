@@ -1,0 +1,14 @@
+C:\Users\Idro\source\repos\Banka\BankaApp\bin\Debug\net6.0\BankaApp.exe
+C:\Users\Idro\source\repos\Banka\BankaApp\bin\Debug\net6.0\BankaApp.deps.json
+C:\Users\Idro\source\repos\Banka\BankaApp\bin\Debug\net6.0\BankaApp.runtimeconfig.json
+C:\Users\Idro\source\repos\Banka\BankaApp\bin\Debug\net6.0\BankaApp.dll
+C:\Users\Idro\source\repos\Banka\BankaApp\bin\Debug\net6.0\BankaApp.pdb
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.AssemblyInfoInputs.cache
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.AssemblyInfo.cs
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.csproj.CoreCompileInputs.cache
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.dll
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\refint\BankaApp.dll
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.pdb
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\BankaApp.genruntimeconfig.cache
+C:\Users\Idro\source\repos\Banka\BankaApp\obj\Debug\net6.0\ref\BankaApp.dll
