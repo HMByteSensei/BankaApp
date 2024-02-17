@@ -28,19 +28,20 @@ while (true)
             case 2:
                 pocetak.klijent(model);
                 break;
-            case 8:
-                model.obrisiPodatkeSvihTabela();
-                break;
-            case 9:
-                model.kreirajBazu();
-                break;
-            case 10:
-                model.vratiSveIzBaze("Klienti");
-                model.vratiSveIzBaze("Racun");
-                model.vratiSveIzBaze("Zaposlenici");
-                model.vratiSveIzBaze("brojac_seq");
-                model.vratiSveIzBaze("Logs");
-                break;
+            // Za testiranje sluze case 8-10
+            //case 8:
+            //    model.obrisiPodatkeSvihTabela();
+            //    break;
+            //case 9:
+            //    model.kreirajBazu();
+            //    break;
+            //case 10:
+            //    model.vratiSveIzBaze("Klienti");
+            //    model.vratiSveIzBaze("Racun");
+            //    model.vratiSveIzBaze("Zaposlenici");
+            //    model.vratiSveIzBaze("brojac_seq");
+            //    model.vratiSveIzBaze("Logs");
+            //    break;
             default:
                 Console.WriteLine("Greska: pogresna opcija!");
                 break;
